@@ -19,6 +19,7 @@
 		2038B48527ECDAF4002807D8 /* FeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2038B48427ECDAF4002807D8 /* FeedViewController.swift */; };
 		2038B48727ECF255002807D8 /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2038B48627ECF255002807D8 /* CameraViewController.swift */; };
 		2038B48927ECFF70002807D8 /* PostCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2038B48827ECFF70002807D8 /* PostCell.swift */; };
+		206105E727F41FE300C98D58 /* CommentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 206105E627F41FE300C98D58 /* CommentCell.swift */; };
 		B41CA6A5B868C862300C46F6 /* Pods_Instagram_InstagramUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 09A2E6B3EA3340BEABE12062 /* Pods_Instagram_InstagramUITests.framework */; };
 		C08FFC5E8434294F3A321376 /* Pods_Instagram.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FB6DF8FB329D15A23FCA77DF /* Pods_Instagram.framework */; };
 		C6C0B04C181A3388D5BA629F /* Pods_InstagramTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F18A1423863FB8CD14D93185 /* Pods_InstagramTests.framework */; };
@@ -60,6 +61,7 @@
 		2038B48427ECDAF4002807D8 /* FeedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedViewController.swift; sourceTree = "<group>"; };
 		2038B48627ECF255002807D8 /* CameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
 		2038B48827ECFF70002807D8 /* PostCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostCell.swift; sourceTree = "<group>"; };
+		206105E627F41FE300C98D58 /* CommentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentCell.swift; sourceTree = "<group>"; };
 		560D270D2295400425329242 /* Pods-Instagram-InstagramUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Instagram-InstagramUITests.debug.xcconfig"; path = "Target Support Files/Pods-Instagram-InstagramUITests/Pods-Instagram-InstagramUITests.debug.xcconfig"; sourceTree = "<group>"; };
 		921140124031AD3A3D4D6DE6 /* Pods-Instagram-InstagramUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Instagram-InstagramUITests.release.xcconfig"; path = "Target Support Files/Pods-Instagram-InstagramUITests/Pods-Instagram-InstagramUITests.release.xcconfig"; sourceTree = "<group>"; };
 		99D0A81BF32D4946260211BA /* Pods-InstagramTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-InstagramTests.release.xcconfig"; path = "Target Support Files/Pods-InstagramTests/Pods-InstagramTests.release.xcconfig"; sourceTree = "<group>"; };
@@ -132,6 +134,7 @@
 				2038B48427ECDAF4002807D8 /* FeedViewController.swift */,
 				2038B48627ECF255002807D8 /* CameraViewController.swift */,
 				2038B48827ECFF70002807D8 /* PostCell.swift */,
+				206105E627F41FE300C98D58 /* CommentCell.swift */,
 			);
 			path = Instagram;
 			sourceTree = "<group>";
@@ -421,6 +424,7 @@
 				2038B48527ECDAF4002807D8 /* FeedViewController.swift in Sources */,
 				2038B45527ECD577002807D8 /* SceneDelegate.swift in Sources */,
 				2038B48927ECFF70002807D8 /* PostCell.swift in Sources */,
+				206105E727F41FE300C98D58 /* CommentCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
